@@ -1,6 +1,0 @@
-Copy this folder to groups/group_XX/ and replace this file with your group's information:
-
-Group: 07
-Members: Josyflávia Mesquita,Luana Carollina
-Monitor: Lucas 
-How to run: python groups/group_07/main.py (from the repository root)
