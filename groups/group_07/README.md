@@ -1,0 +1,1 @@
+Arquivo do projeto Photocensus - Grupo 07.
