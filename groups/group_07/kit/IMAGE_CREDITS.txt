@@ -1,0 +1,67 @@
+IMAGE CREDITS - PhotoCensus Project
+========================================
+
+The 48 photos in this kit come from the public COCO 2017 dataset (validation split),
+https://cocodataset.org - original images from Flickr under Creative Commons licenses
+that allow use and redistribution with attribution. Files were renamed and organized
+by category for educational purposes only.
+
+[office]
+  office_01.jpg  <- COCO 000000186282.jpg | http://farm3.staticflickr.com/2492/5812924771_1ec43e7a40_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  office_02.jpg  <- COCO 000000148620.jpg | http://farm1.staticflickr.com/17/21390853_f77d98a68b_z.jpg | Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.0/)
+  office_03.jpg  <- COCO 000000409630.jpg | http://farm5.staticflickr.com/4007/4303330016_6245479dfb_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  office_04.jpg  <- COCO 000000206218.jpg | http://farm8.staticflickr.com/7223/7161410855_58ae7f38c2_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  office_05.jpg  <- COCO 000000561366.jpg | http://farm1.staticflickr.com/198/459435907_bb6c8c82c9_z.jpg | Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.0/)
+  office_06.jpg  <- COCO 000000248631.jpg | http://farm8.staticflickr.com/7209/6856333555_8988fcece0_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  office_07.jpg  <- COCO 000000553664.jpg | http://farm9.staticflickr.com/8184/8359838012_b3491d063c_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  office_08.jpg  <- COCO 000000547144.jpg | http://farm3.staticflickr.com/2408/2527139847_ee51ca4ce3_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+
+[kitchen]
+  kitchen_01.jpg  <- COCO 000000137294.jpg | http://farm8.staticflickr.com/7415/9848404106_3942d89008_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  kitchen_02.jpg  <- COCO 000000138856.jpg | http://farm5.staticflickr.com/4075/4872855743_1066676766_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  kitchen_03.jpg  <- COCO 000000445846.jpg | http://farm7.staticflickr.com/6238/6282443910_5477113bf6_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  kitchen_04.jpg  <- COCO 000000429598.jpg | http://farm8.staticflickr.com/7162/6617685485_877d5cee57_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  kitchen_05.jpg  <- COCO 000000127182.jpg | http://farm9.staticflickr.com/8453/7883863194_0e5f44d8f9_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  kitchen_06.jpg  <- COCO 000000280930.jpg | http://farm6.staticflickr.com/5289/5227407234_31a3eb81cc_z.jpg | Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.0/)
+  kitchen_07.jpg  <- COCO 000000365766.jpg | http://farm8.staticflickr.com/7043/6790349696_0b347fe1ae_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  kitchen_08.jpg  <- COCO 000000455597.jpg | http://farm8.staticflickr.com/7171/6594914093_03ba0a761a_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+
+[street]
+  street_01.jpg  <- COCO 000000221754.jpg | http://farm7.staticflickr.com/6080/6035948985_c20af797b8_z.jpg | Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.0/)
+  street_02.jpg  <- COCO 000000259830.jpg | http://farm4.staticflickr.com/3412/3308735477_1db07df522_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  street_03.jpg  <- COCO 000000233727.jpg | http://farm9.staticflickr.com/8514/8507593850_2b80bee7cc_z.jpg | Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.0/)
+  street_04.jpg  <- COCO 000000246963.jpg | http://farm7.staticflickr.com/6038/5878125821_37e6cc59e9_z.jpg | Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.0/)
+  street_05.jpg  <- COCO 000000196759.jpg | http://farm8.staticflickr.com/7324/9356649003_5cf8fb57b3_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  street_06.jpg  <- COCO 000000015517.jpg | http://farm9.staticflickr.com/8184/8407007011_9456edeb6d_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  street_07.jpg  <- COCO 000000085376.jpg | http://farm8.staticflickr.com/7059/6867232585_0d4ea34bae_z.jpg | Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.0/)
+  street_08.jpg  <- COCO 000000362682.jpg | http://farm9.staticflickr.com/8528/8575643656_6194a29a31_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+
+[animals]
+  animals_01.jpg  <- COCO 000000079565.jpg | http://farm1.staticflickr.com/23/25900608_1be51f60e5_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  animals_02.jpg  <- COCO 000000201676.jpg | http://farm3.staticflickr.com/2037/2316855213_ed66bb31fb_z.jpg | Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.0/)
+  animals_03.jpg  <- COCO 000000205282.jpg | http://farm4.staticflickr.com/3806/8892272617_b5f681bc37_z.jpg | Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.0/)
+  animals_04.jpg  <- COCO 000000201025.jpg | http://farm5.staticflickr.com/4116/4856632552_e79df89e91_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  animals_05.jpg  <- COCO 000000140270.jpg | http://farm9.staticflickr.com/8121/8714346440_8ccf87db39_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  animals_06.jpg  <- COCO 000000126216.jpg | http://farm4.staticflickr.com/3472/3194154500_e5829db264_z.jpg | Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.0/)
+  animals_07.jpg  <- COCO 000000008690.jpg | http://farm4.staticflickr.com/3753/9867545575_fa972e6c4a_z.jpg | Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.0/)
+  animals_08.jpg  <- COCO 000000021903.jpg | http://farm9.staticflickr.com/8088/8456686192_fccee8c5bb_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+
+[sports]
+  sports_01.jpg  <- COCO 000000481413.jpg | http://farm1.staticflickr.com/23/35099655_d7c448ccd7_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  sports_02.jpg  <- COCO 000000088485.jpg | http://farm3.staticflickr.com/2593/5721763173_16433bab1c_z.jpg | Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.0/)
+  sports_03.jpg  <- COCO 000000369323.jpg | http://farm4.staticflickr.com/3159/2876155563_b7f860ac4b_z.jpg | Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.0/)
+  sports_04.jpg  <- COCO 000000205105.jpg | http://farm4.staticflickr.com/3257/2654468936_be7cbac775_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  sports_05.jpg  <- COCO 000000220584.jpg | http://farm8.staticflickr.com/7277/7852484584_e823c15b32_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  sports_06.jpg  <- COCO 000000203864.jpg | http://farm5.staticflickr.com/4104/5038658829_5baea9b70a_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  sports_07.jpg  <- COCO 000000535306.jpg | http://farm4.staticflickr.com/3158/2385411389_bc26c51be4_z.jpg | Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.0/)
+  sports_08.jpg  <- COCO 000000185950.jpg | http://farm4.staticflickr.com/3121/2890964329_8825960fcb_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+
+[living_room]
+  living_room_01.jpg  <- COCO 000000578500.jpg | http://farm5.staticflickr.com/4042/4376919410_eff5f487aa_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  living_room_02.jpg  <- COCO 000000029596.jpg | http://farm2.staticflickr.com/1174/4724268948_f93c2cb404_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  living_room_03.jpg  <- COCO 000000124659.jpg | http://farm6.staticflickr.com/5030/5653997626_b4a62d69d1_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  living_room_04.jpg  <- COCO 000000277197.jpg | http://farm5.staticflickr.com/4110/5016175615_cc6c050115_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  living_room_05.jpg  <- COCO 000000236784.jpg | http://farm3.staticflickr.com/2380/2222474135_825753ebbd_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  living_room_06.jpg  <- COCO 000000096493.jpg | http://farm4.staticflickr.com/3226/3076742158_8615337d86_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  living_room_07.jpg  <- COCO 000000222735.jpg | http://farm4.staticflickr.com/3212/2749561795_4c25c5a576_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
+  living_room_08.jpg  <- COCO 000000293804.jpg | http://farm5.staticflickr.com/4025/4271070755_87bb15d4fa_z.jpg | Attribution License (http://creativecommons.org/licenses/by/2.0/)
