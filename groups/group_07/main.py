@@ -1,5 +1,5 @@
 """
-PhotoCensus - Group 07 (TEMPLATE)
+PhotoCensus - Group 06 (TEMPLATE)
 
 Copy this folder to /groups/group_XX/ (XX = your group number)
 and write your project here. Do not modify anything in /kit.
@@ -14,7 +14,7 @@ from black_box import *  # noqa: E402,F401,F403
 
 
 def main():
-    print("PhotoCensus - Group 07")
+    print("PhotoCensus - Group 06")
     show_folders()
     # Your menu (while loop) starts here...
 
